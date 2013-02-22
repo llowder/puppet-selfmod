@@ -1,0 +1,25 @@
+{
+  "name": "friedbob-selfmod",
+  "author": "friedbob",
+  "description": "This is  a proof of concept module on how puppet can be used to modify puppet.",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "0.0.1",
+  "checksums": {
+    "Modulefile": "30d3b238342fa410ec0398f75a58be32",
+    "README.markdown": "145a99f3cc5c209c833f4da85839b1e2",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests\\crons.pp": "71217050ce3d1eebb6f63c4f90def86d",
+    "manifests\\files.pp": "8bdc4d1d0f737521e074e923dbd55c94",
+    "manifests\\init.pp": "ba1a71d60cb328918bbd111e70ddee45",
+    "manifests\\params.pp": "b3d81c26bb62bd99447ca01fa1827405",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "templates\\normal_state.pp.erb": "538030b2f801cbbb63c97216629ae8af",
+    "templates\\temp.pp.erb": "d038b21d2326969501a690e34a8f38ab",
+    "tests\\init.pp": "32fed16b869591caeb13b03f69b8971b"
+  },
+  "dependencies": []
+}

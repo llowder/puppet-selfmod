@@ -1,0 +1,5 @@
+file {
+  '/tmp/foo.txt':
+    ensure  => file,
+    content => 'ohai! <%= @fqdn %> is in normal state!',
+}
